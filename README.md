@@ -1,7 +1,7 @@
 # imagevision-bot
 
 For this project you gonna need: 
-- [Bing Translator API key](https://www.microsoft.com/en-us/translator/getstarted.aspx)
+- [Yandex Translator API key](https://tech.yandex.com/translate/)
 - [Microsoft Computer Vision Key](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api)
 - [Botfather Telegram Token](https://telegram.me/botfather)
 
